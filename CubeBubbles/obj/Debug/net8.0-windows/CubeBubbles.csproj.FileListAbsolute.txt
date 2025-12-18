@@ -1,0 +1,82 @@
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.exe
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.deps.json
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.runtimeconfig.json
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.pdb
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.AssemblyInfoInputs.cache
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.AssemblyInfo.cs
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\refint\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.pdb
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.genruntimeconfig.cache
+E:\Projects\C#\CubeBubbles\CubeBubbles\obj\Debug\net8.0-windows\ref\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close_pressed.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\windows\main.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\left.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\left_pressed.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\right.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\right_pressed.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\blue.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\cyan.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\green.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\purple.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\red.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\yellow.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\windows\background.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\fonts\Nihonium113.ttf
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button_pressed.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button_highlighted.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close_highlighted.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.exe
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close_pressed.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\windows\main.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\left.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\left_pressed.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\right.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\right_pressed.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\blue.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\cyan.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\green.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\purple.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\red.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\yellow.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\windows\background.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\fonts\Nihonium113.ttf
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button_pressed.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\bubble.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\button_highlighted.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\Resources\buttons\close_highlighted.png
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.deps.json
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.runtimeconfig.json
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\bin\Debug\net8.0-windows\CubeBubbles.pdb
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.AssemblyInfoInputs.cache
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.AssemblyInfo.cs
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.csproj.CoreCompileInputs.cache
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\refint\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.pdb
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\CubeBubbles.genruntimeconfig.cache
+E:\Projects\C#\CubeBubbles (CLAUDE)\CubeBubbles\obj\Debug\net8.0-windows\ref\CubeBubbles.dll
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\cursors\cursor.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\cursors\cursor_pressed.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\logo.ico
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\cursors\cursor_active.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\chameleon.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\box.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\rocket_box.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\rocket_left.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\rocket_right.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\rocket_up.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\bubbles\bomb.png
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\sounds\add.wav
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\sounds\game_over.wav
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\sounds\hit.wav
+E:\Projects\C#\CubeBubbles\CubeBubbles\bin\Debug\net8.0-windows\Resources\windows\background_title.png

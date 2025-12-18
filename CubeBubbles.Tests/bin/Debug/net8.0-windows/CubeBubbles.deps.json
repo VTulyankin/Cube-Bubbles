@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CubeBubbles/1.0.0": {
+        "runtime": {
+          "CubeBubbles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CubeBubbles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
